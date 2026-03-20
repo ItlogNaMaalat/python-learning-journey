@@ -13,3 +13,14 @@ age = int(input("Enter your age: "))
 ## Reflection
 At first, I was confused about data types and input conversion,
 but after trying the code, I understood how values are stored and displayed.
+
+## Exercises
+
+### Exercise 1
+Created a personal profile program using variables and input.
+
+### Exercise 2
+Built a simple calculator that computes sum, difference, and product.
+
+### Exercise 3
+Explored different data types and used type() to identify them.
