@@ -1,4 +1,15 @@
-# Exercise 4 (CHALLENGE 🔥🔥)
+# Exercise 4 (Number Classification System)
+
+# Ask user for a number:
+
+# Check:
+#   positive / negative / zero
+#   even or odd
+
+# Output example:
+#   Positive and Even
+#   Negative and Odd
+#   Zero
 
 user = int(input("Enter a number: "))
 

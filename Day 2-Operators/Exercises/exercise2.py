@@ -1,5 +1,15 @@
 #Exercise 2 — Salary Breakdown
 
+# Ask:
+#   base salary
+#   bonus
+#   tax rate
+
+# Compute:
+#   gross = base + bonus
+#   tax = gross * (tax / 100)
+#   net = gross - tax
+
 base_salary = float(input("Enter your Base Salary: "))
 bonus = float(input("Enter your bonus: "))
 tax_rate = float(input("Enter your tax rate: "))

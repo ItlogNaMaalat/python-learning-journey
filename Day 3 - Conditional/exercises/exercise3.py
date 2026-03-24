@@ -1,5 +1,16 @@
 # Exercise 3 — Salary Bonus System
 
+# Ask:
+#   salary
+#   years of service
+
+# Rules:
+#   If years ≥ 5 → bonus = 20%
+#   If years ≥ 2 → bonus = 10%
+#   Else → bonus = 5%
+
+# Print final salary
+
 salary = int(input("your salary: "))
 years_of_service = int(input("Years of Service: "))
 

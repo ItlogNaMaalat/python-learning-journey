@@ -1,4 +1,17 @@
-#Created a personal profile program using variables and input.
+# Exercise 1 - Created a personal profile program using variables and input.
+
+# Ask the user for:
+    # full name
+    # age
+    # height
+    # favorite number
+
+# Then print:
+"""""
+Hello [name]!
+You are [age] years old and [height] meters tall.
+Your favorite number is [number].
+"""""
 
 full_name = input("Enter your full name: ")
 age = input("Enter your Age: ")

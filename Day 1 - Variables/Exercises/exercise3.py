@@ -1,3 +1,16 @@
+# Exercise 2 — Simple Math Analyzer
+
+# Create 5 variables:
+#   string number → "25"
+#   integer → 25
+#   float → 25.5
+#   boolean → True
+#   string "True"
+
+# Then print:
+
+# Value: ___ | Type: ___
+
 string_number = "25"
 integer = 25
 float = 25.5

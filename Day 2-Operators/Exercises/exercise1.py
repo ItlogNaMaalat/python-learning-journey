@@ -1,5 +1,9 @@
-# Even or Odd Checker (using %)
+# Exercise 1 - Even or Odd Checker (using %)
 
+# Ask user for a number
+# Print:
+#   “Even” if divisible by 2
+#   “Odd” otherwise
 
 number = float(input("Give me a number: "))
 
