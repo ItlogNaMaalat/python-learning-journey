@@ -1,6 +1,7 @@
-# How to update project(add/edit/delete files)  
+# Version Control Workflow Using Git
+A beginner-friendly guide that explains the standard Git workflow for updating a project, including adding, committing, and pushing changes to GitHub. It provides step-by-step instructions and a simple daily routine to help maintain version control and ensure consistent progress in development.
 
-## Main workflow forever:
+## Main workflow:
 git add .
 git commit -m "your message"
 git push
