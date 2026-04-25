@@ -6,15 +6,15 @@
 ### Example:
 **without function:**
 
-        print("Hello, World")
-        print("Hello, World")
-        print("Hello, World")
+    print("Hello, World")
+    print("Hello, World")
+    print("Hello, World")
 
 **With function:**
 
-        def greet():
-            Print("Hello, world")
-        greet():
+    def greet():
+        Print("Hello, world")
+    greet():
 
 ## part 2: Basic Syntax
     def function_name():
@@ -30,7 +30,7 @@
 **function_name():**
     its to call the fucntion and and execute the code inside it.
 
-**Example:**
+### Example
 
     def say_hello():
         print("Hello!")
