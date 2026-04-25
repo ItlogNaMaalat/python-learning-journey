@@ -5,11 +5,13 @@
 
 ### Example:
 **without function:**
+
         print("Hello, World")
         print("Hello, World")
         print("Hello, World")
 
 **With function:**
+
         def greet():
             Print("Hello, world")
         greet():
@@ -21,12 +23,15 @@
     
 **def**
     Used to define a function.
+
 **Fucntion_name**
     its like the ID of the function.
+
 **function_name()**
     its to call the fucntion and and execute the code inside it.
 
 **Example:**
+
     def say_hello():
         print("Hello!")
 

@@ -11,21 +11,26 @@ Without a Loop
     print("Hello")
 
 With a Loop
+
     for i in range(3):
         print("Hello")
 
 Output: 
+
     Hello
     Hello
     Hello
 
 ## PART 2 — TYPES OF LOOPS
 1.  FOR LOOP (Most common)
-    Used when you know how many time to repeat.
-        for i in range(5):
-            print(i)
+        Used when you know how many time to repeat.
+
+            for i in range(5):
+                print(i)
+
     Output:
-        0 1 2 3 4
+
+            0 1 2 3 4
 
 ### Understanding the Range()
  ________________________________
@@ -45,8 +50,11 @@ Output:
             print(x)
             x += 1
     ⚠️ important note:
+        
         if you get 
+
             x += 1
+            
         it runs forever(infinite loop)
 
 ## PART 3 — BREAK & CONTINUE
