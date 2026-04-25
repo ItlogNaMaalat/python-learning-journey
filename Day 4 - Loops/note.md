@@ -49,13 +49,13 @@ Output:
         while x < 5:
             print(x)
             x += 1
-    ⚠️ important note:
+⚠️ important note:
         
-        if you get 
+if you get 
 
-            x += 1
-            
-        it runs forever(infinite loop)
+    x += 1
+
+it runs forever(infinite loop)
 
 ## PART 3 — BREAK & CONTINUE
 break → stop loop

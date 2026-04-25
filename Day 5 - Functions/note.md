@@ -21,13 +21,13 @@
         # then you can write your code here.
     function_name()
     
-**def**
+**def:**
     Used to define a function.
 
-**Fucntion_name**
+**Fucntion_name:**
     its like the ID of the function.
 
-**function_name()**
+**function_name():**
     its to call the fucntion and and execute the code inside it.
 
 **Example:**
