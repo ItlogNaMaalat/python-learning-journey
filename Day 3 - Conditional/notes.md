@@ -1,17 +1,67 @@
-# Day 3 - Conditionals
+# DAY 3 — CONDITIONAL STATEMENTS
 
-## What I Learned
-- Conditionals allow decision making in programs
-- if, elif, and else control the flow
-- Comparison operators check conditions
-- Logical operators combine conditions
+## PART 1 — CONCEPT
+### What are Conditionals?
+Conditionals allow your program to make decisions based on conditions
 
-## Exercises
-- Built even/odd/zero checker
-- Created a simple login system
-- Developed a salary bonus calculator
-- Solved number classification problem
+### Basic Syntax
+    if condition:
+        # code runs if TRUE
 
-## Reflection
-Conditionals are more challenging but more interesting.
-I can now control how my program behaves based on input.
+### Example
+age = 18
+
+if age >= 18:
+    print("You are an adult")
+
+## PART 2 — if, else, elif
+
+### if - else
+age = int(input("Enter your age: "))
+
+if age >= 18:
+    print("Adult")
+else:
+    print("Minor")
+
+### if - elif - else
+score = int(input("Enter score: "))
+
+if score >= 90:
+    print("A")
+elif score >= 80:
+    print("B")
+elif score >= 70:
+    print("C")
+else:
+    print("Fail")
+
+## PART 3 — COMPARISON OPERATORS
+ _______________________________
+|Operator |Meaning
+|---------|---------------------|
+|==       |equal                |
+|!=       |not equal            |
+|>        |greater than         |
+|<        |less than            |
+|>=       |greter or equal than |
+|<=       |less or equal than   |
+ _______________________________
+
+## PART 4 — LOGICAL OPERATORS
+
+ ___________________________
+|Operator |Meaning          |
+|---------|-----------------|
+|and      |both true        |
+|or       |atleast one true |
+|not      |opposite         |
+ ___________________________
+
+### Example
+age = 20
+is_student = True
+
+if age >= 18 and is_student:
+    print("Eligible student")
+
