@@ -6,4 +6,6 @@ def is_even(num):
         print("True")
     else:
         print("False")
-is_even(3)
+        
+number = int(input("Enter a number: "))
+print(is_even(number))

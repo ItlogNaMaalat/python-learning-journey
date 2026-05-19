@@ -1,4 +1,4 @@
-# Day 5 - Simple calculator using Functions.
+ # Day 5 - Simple calculator using Functions.
 
 def add(a, b):
     return a + b
